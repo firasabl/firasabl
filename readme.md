@@ -2,20 +2,18 @@
 <a href = "https://www.linkedin.com/in/firas-abidli-daiki/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/firas_abl/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Firas == Daiki</h1>
-
-<h2 align="center">I'm a Self-taught Developer from Tunisia.</h2>
-
-
+<p>
+    <a href="https://github.com/firasabl/github-readme-stats"><img alt="firasabl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=firasabl&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Firas == Daiki 😉</h1>
+<h2 align="center">I'm a Self-taught Developer 💪 from Tunisia 🇹🇳.</h2>
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 📫 How to reach me **firasabidli.dev@gmail.com**
 
-- ⚡ Fun fact **I love 80's/90's music and im obsessed with technology**
+- ⚡ Fun fact **I love 80's/90's music, Im obsessed with technology and Stickers**
 
 ## 🚀 Languages and Tools:
 <br>
@@ -42,11 +40,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Daiki's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=firasabl&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-  <br/>
-  <p >
-    <a href="https://github.com/firasabl/github-readme-stats"><img alt="firasabl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=firasabl&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </p>
   <p>
   <a href="https://github.com/firasabl/github-readme-stats"><img alt="firasabl's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firasabl&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
