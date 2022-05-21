@@ -5,15 +5,16 @@
 <p>
     <a href="https://github.com/firasabl/github-readme-stats"><img alt="firasabl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=firasabl&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Firas == Daiki 😉</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Firas == Daiki 😉 <h3>𝚌𝚊𝚗 𝚢𝚘𝚞 𝚏𝚊𝚒𝚕 𝚋𝚎𝚝𝚝𝚎𝚛?</h3> </h1>
 <h2 align="center">I'm a Self-taught Developer 💪 from Tunisia 🇹🇳.</h2>
+
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 📫 How to reach me **firasabidli.dev@gmail.com**
 
-- ⚡ Fun fact **I love 80's/90's music, Im obsessed with technology and Stickers**
+- ⚡ Fun fact **I love 80's/90's music, Im obsessed with technology, Stickers and Podcasts**
 
 ## 🚀 Languages and Tools:
 <br>
