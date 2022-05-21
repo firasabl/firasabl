@@ -2,19 +2,24 @@
 <a href = "https://www.linkedin.com/in/firas-abidli-daiki/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/firas_abl/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
-<p>
-    <a href="https://github.com/firasabl/github-readme-stats"><img alt="firasabl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=firasabl&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </p>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Firas == Daiki 😉 <h3>𝚌𝚊𝚗 𝚢𝚘𝚞 𝚏𝚊𝚒𝚕 𝚋𝚎𝚝𝚝𝚎𝚛?</h3> </h1>
-<h2 align="center">I'm a Self-taught Developer 💪 from Tunisia 🇹🇳.</h2>
 
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>Firas -aka <b>Daiki 😉 </h1>
+    <h3>𝚌𝚊𝚗 𝚢𝚘𝚞 𝚏𝚊𝚒𝚕 𝚋𝚎𝚝𝚝𝚎𝚛?</h3>
+<h2 align="center">I'm a Self-taught Developer 💪 from Tunisia 🇹🇳.</h2>
+ 
+    
+
+<p><a href="https://github.com/firasabl/github-readme-stats"><img alt="firasabl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=firasabl&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+    
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 📫 How to reach me **firasabidli.dev@gmail.com**
-
 - ⚡ Fun fact **I love 80's/90's music, Im obsessed with technology, Stickers and Podcasts**
+
+- 🤓 Passed the **42Heilbronn** february 2022 basecamp
+    
+- 📫 How to reach me **firasabidli.dev@gmail.com**
 
 ## 🚀 Languages and Tools:
 <br>
