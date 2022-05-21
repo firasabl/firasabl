@@ -3,6 +3,7 @@
 <p align="right">
 <a href = "https://www.linkedin.com/in/firas-abidli-daiki/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/firas_abl/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://discord.com/users/858015948941164554"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 </p>
 
 <h3>𝚌𝚊𝚗 𝚢𝚘𝚞 𝚏𝚊𝚒𝚕 𝚋𝚎𝚝𝚝𝚎𝚛?</h3>
