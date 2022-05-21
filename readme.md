@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <p align="right">
 <a href = "https://www.linkedin.com/in/firas-abidli-daiki/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/firas_abl/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
