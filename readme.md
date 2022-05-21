@@ -3,9 +3,9 @@
 <a href = "https://www.instagram.com/firas_abl/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-![snake gif](https://github.com/firasabl/firasabl/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/firasabl/firasabl/blob/output/github-contribution-grid-snake.svg)
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>Firas -aka <b>Daiki 😉 </h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Firas - aka Daiki 😉 </h1>
     <h3>𝚌𝚊𝚗 𝚢𝚘𝚞 𝚏𝚊𝚒𝚕 𝚋𝚎𝚝𝚝𝚎𝚛?</h3>
 <h2 align="center">I'm a Self-taught Developer 💪 from Tunisia 🇹🇳.</h2>
  
