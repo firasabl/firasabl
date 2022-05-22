@@ -7,7 +7,7 @@
 </p>
 
 <h3>𝚌𝚊𝚗 𝚢𝚘𝚞 𝚏𝚊𝚒𝚕 𝚋𝚎𝚝𝚝𝚎𝚛?</h3>
-<h2 align="center">I'm a Self-taught Developer 💪 from Tunisia 🇹🇳.</h2>
+<h2 align="center">I'm a Self-taught Developer 💪 from Tunisia 🇹🇳</h2>
     
 <p><a href="https://github.com/firasabl/github-readme-stats"><img alt="firasabl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=firasabl&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
     
