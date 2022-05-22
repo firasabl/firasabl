@@ -1,6 +1,6 @@
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=koulen&duration=7000&color=82C39E&width=600&height=100&lines=hey+you!%2C+Can+you+fail+better+?+%F0%9F%96%A4)](https://git.io/typing-svg)
 <h1 ><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Firas - aka Daiki  
-<a  href = "https://www.linkedin.com/in/firas-abidli-daiki/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" height="40"/></a>
+<a  href = "www.linkedin.com/in/firas-Daiki-abidli-422148226"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" height="40"/></a>
 <a  href = "https://www.instagram.com/firas_abl/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40" height="40"/></a>
 <a  href = "https://discord.com/users/858015948941164554"><img src="https://img.icons8.com/fluent/48/000000/discord.png" width="40" height="40"/></a>
 </h1>
