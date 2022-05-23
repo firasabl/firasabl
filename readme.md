@@ -24,7 +24,6 @@
     <a target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="48" height="50"/> </a>
     <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;"target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
